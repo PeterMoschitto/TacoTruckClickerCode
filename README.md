@@ -1,1 +1,1 @@
-https://PeterMoschitto.github.io/TacoTruckClickerCode
+https://github.com/PeterMoschitto/TacoTruckClickerCode.git
